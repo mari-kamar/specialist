@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArraysProject/ArraysProject.iml" filepath="$PROJECT_DIR$/ArraysProject/ArraysProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Birthday/Birthday.iml" filepath="$PROJECT_DIR$/Birthday/Birthday.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionsProject/CollectionsProject.iml" filepath="$PROJECT_DIR$/CollectionsProject/CollectionsProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConsoleIO/ConsoleIO.iml" filepath="$PROJECT_DIR$/ConsoleIO/ConsoleIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateProject/DateProject.iml" filepath="$PROJECT_DIR$/DateProject/DateProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dictionary/Dictionary.iml" filepath="$PROJECT_DIR$/Dictionary/Dictionary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enums/Enums.iml" filepath="$PROJECT_DIR$/Enums/Enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Events/Events.iml" filepath="$PROJECT_DIR$/Events/Events.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Exceptions/Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FilesIO/FilesIO.iml" filepath="$PROJECT_DIR$/FilesIO/FilesIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Func/Func.iml" filepath="$PROJECT_DIR$/Func/Func.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello/Hello.iml" filepath="$PROJECT_DIR$/Hello/Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iterations/Iterations.iml" filepath="$PROJECT_DIR$/Iterations/Iterations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-1-0302.iml" filepath="$PROJECT_DIR$/Java-1-0302.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaNIO/JavaNIO.iml" filepath="$PROJECT_DIR$/JavaNIO/JavaNIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Names/Names.iml" filepath="$PROJECT_DIR$/Names/Names.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Nested/Nested.iml" filepath="$PROJECT_DIR$/Nested/Nested.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reflection/Reflection.iml" filepath="$PROJECT_DIR$/Reflection/Reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Resources/Resources.iml" filepath="$PROJECT_DIR$/Resources/Resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringsProject/StringsProject.iml" filepath="$PROJECT_DIR$/StringsProject/StringsProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Temperature/Temperature.iml" filepath="$PROJECT_DIR$/Temperature/Temperature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vars/Vars.iml" filepath="$PROJECT_DIR$/Vars/Vars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vorony/Vorony.iml" filepath="$PROJECT_DIR$/Vorony/Vorony.iml" />
+    </modules>
+  </component>
+</project>
